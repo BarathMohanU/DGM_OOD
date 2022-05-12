@@ -1,4 +1,4 @@
-# DGM_OOD
+# DGM OOD Detection Project
 
 # dependencies
 This folder contains the code for the PixelCNN and VAE models used.
